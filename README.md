@@ -1,4 +1,4 @@
-#  |---Doodle Anna ---|
+# [🔱]Doodle Anna[🔱]
 
 ## 🌱Coding Interests
 - 🐍General Python
