@@ -13,6 +13,7 @@
 - 🧱Photoshop / Photopea
 ---
 ## 🧩Other Interests 
+- 🎨Cartooning
 - 🧫Biology 
 - 📔History 
 - 🕉 Religious Study 
