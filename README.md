@@ -21,6 +21,7 @@
 - --
 ## 📌Support Me - 
 ![Simple News Discord bot](https://i.imgur.com/k0pI0x5.png)
+- https://dsc.gg/simple-news
 --
 ## 🦈Socials 
 - 🤳[Instagram](https://www.instagram.com/doodleannarocks/)
